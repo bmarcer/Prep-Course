@@ -1,0 +1,5 @@
+* Variables = Son los valores que le asignamos a algo.
+ * Strings = es un conjunto de caracteres para representar datos de texto.
+ * Funciones (argumentos, `return`) = son procedimientos para ejecutar una tarea o calcular algo.
+ * Declaraciones `if`= es la forma de tomar una decicion si por si o por si no.
+ * Valores booleanos (`true`, `false`) = es la forma de decidir si por algo es verdadero o falso
